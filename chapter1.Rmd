@@ -1,4 +1,4 @@
 
 # About the project
 
-My GitHub repositary can be found here: https://github.com/*your_github_username*/IODS-project.
+My GitHub repositary can be found here: https://github.com/Vesqdaa/IODS-project.
